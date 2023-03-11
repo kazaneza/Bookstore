@@ -25,7 +25,7 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>README </b></h3>
 
 </div>
 
@@ -55,9 +55,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math Magicians] <a name="about-project"></a>
+# 📖 [ Bookstore ] <a name="about-project"></a>
 
--Math-Magicians is a single page application built with React, CSS, and HTML. It allows users to make simple calculations and read a random math-related quote
+-Bookstore: This project aims to create a simplified version of it that allows users to display a list of books, add a book, and remove a selected book.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -70,7 +70,6 @@ After you're finished please remove all the comments and instructions!
 > Features in this project.
 
 - [Components]
-- [Hooks]
 - [Routers]
 
 
@@ -79,7 +78,7 @@ After you're finished please remove all the comments and instructions!
 
 To get a local copy up and running, follow these steps.
 
-1. Clone the Repo or Download the Zip file or `https://github.com/kazaneza/calculator.git`
+1. Clone the Repo or Download the Zip file or `https://github.com/kazaneza/Bookstore.git`
 2. cd /calculator
 3. Open it with the live server
 
@@ -114,7 +113,7 @@ Example commands:
 
 Install this project with:
 
-- to install locally run git clone https://github.com/kazaneza/calculator.git
+- to install locally run git clone `https://github.com/kazaneza/Bookstore.git`
 - open the cloned directory with VSCode
 - Install live server extension for VSCode
 - Right click on the index.html and select open with live servers
@@ -180,7 +179,12 @@ Give a ⭐️ if you like this project!
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> All features are added, project is complet.
+> In the future I will
+
+- Add reducers and actions.
+- Use Redux in React components.
+- Connect to API.
+- Styling.
 
 
 
