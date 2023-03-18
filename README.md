@@ -94,9 +94,6 @@ In order to run this project you need:
 
  <!-- LIVE DEMO -->
 
-### LIVE DEMO
-
-- See it live by clicking [Live Demo Link]()
 
 ### Setup
 
