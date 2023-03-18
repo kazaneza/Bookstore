@@ -72,6 +72,7 @@ After you're finished please remove all the comments and instructions!
 - [Components]
 - [Routers]
 - [Add_reducers_and_actions]
+- [Use_Redux_in_React_components]
 
 
 
@@ -183,7 +184,6 @@ Give a ⭐️ if you like this project!
 > In the future I will
 
 
-- Use Redux in React components.
 - Connect to API.
 - Styling.
 
