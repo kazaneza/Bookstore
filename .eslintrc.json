@@ -25,6 +25,7 @@
     "no-shadow": "off",
     "no-param-reassign": "off",
     "react/prop-types": "off"
+
   },
   "ignorePatterns": ["dist/", "build/"]
 }
