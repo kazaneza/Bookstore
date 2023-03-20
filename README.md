@@ -74,6 +74,17 @@ After you're finished please remove all the comments and instructions!
 - [Add_reducers_and_actions]
 - [Use_Redux_in_React_components]
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> In the future I will
+
+
+- Connect to API.
+- Styling.
+
+
 
 <!-- FUTURE FEATURES -->
 
@@ -184,7 +195,6 @@ Give a ⭐️ if you like this project!
 - Thanks to My coding Partner.
 - Thanks to My Morning-session-group and Standup-team Partners.
 - Thanks to Code Reviewers
-
 
 
 
