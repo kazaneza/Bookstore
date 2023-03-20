@@ -72,6 +72,18 @@ After you're finished please remove all the comments and instructions!
 - [Components]
 - [Routers]
 - [Add_reducers_and_actions]
+- [Use_Redux_in_React_components]
+
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> In the future I will
+
+
+- Connect to API.
+- Styling.
 
 
 
@@ -93,9 +105,6 @@ In order to run this project you need:
 
  <!-- LIVE DEMO -->
 
-### LIVE DEMO
-
-- See it live by clicking [Live Demo Link]()
 
 ### Setup
 
@@ -176,16 +185,6 @@ Give a ⭐️ if you like this project!
 - Thanks to My Morning-session-group and Standup-team Partners.
 - Thanks to Code Reviewers
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> In the future I will
-
-
-- Use Redux in React components.
-- Connect to API.
-- Styling.
 
 
 
