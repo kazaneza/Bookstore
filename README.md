@@ -86,6 +86,17 @@ After you're finished please remove all the comments and instructions!
 
 
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> In the future I will
+
+
+- Connect to API.
+- Styling.
+
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -184,6 +195,7 @@ Give a ⭐️ if you like this project!
 - Thanks to My coding Partner.
 - Thanks to My Morning-session-group and Standup-team Partners.
 - Thanks to Code Reviewers
+
 
 
 ## 📝 License <a name="license"></a>
