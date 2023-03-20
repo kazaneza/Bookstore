@@ -73,6 +73,8 @@ After you're finished please remove all the comments and instructions!
 - [Routers]
 - [Add_reducers_and_actions]
 - [Use_Redux_in_React_components]
+- [Connect_to_API]
+- [Styling]
 
 <!-- FUTURE FEATURES -->
 
@@ -81,8 +83,7 @@ After you're finished please remove all the comments and instructions!
 > In the future I will
 
 
-- Connect to API.
-- Styling.
+- [Everything_is_implemented]
 
 
 
