@@ -49,6 +49,7 @@
 
 > In the future I will
 
+- Connect to API.
 - Styling.
 
  In order to run this project you need:
@@ -64,7 +65,6 @@
 - Thanks to Code Reviewers
 
 <!-- FUTURE FEATURES -->
-
 
 ## 📝 License `<a name="license"></a>`
 
