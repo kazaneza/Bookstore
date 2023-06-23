@@ -1,11 +1,11 @@
-<a name="readme-top"></a>
+# Bookstore
+
+`<a name="readme-top"></a>`
 
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
-
 Modify this file to match your project and remove sections that don't apply.
-
 REQUIRED SECTIONS:
 - Table of Contents
 - About the Project
@@ -18,14 +18,12 @@ REQUIRED SECTIONS:
 - Show your support
 - Acknowledgements
 - License
-
 OPTIONAL SECTIONS:
 - FAQ
-
 After you're finished please remove all the comments and instructions!
 -->
 
-  <h3><b>README </b></h3>
+<h3><b>README </b></h3>
 
 </div>
 
@@ -55,51 +53,25 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [ Bookstore ] <a name="about-project"></a>
+# 📖 [ Bookstore ] `<a name="about-project"></a>`
 
 -Bookstore: This project aims to create a simplified version of it that allows users to display a list of books, add a book, and remove a selected book.
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With `<a name="built-with"></a>`
 
 - REACT js
 - HTML
 - CSS
 
-## 🔭 Key Features <a name="future-features"></a>
+## 🔭 Key Features `<a name="future-features"></a>`
 
 > Features in this project.
 
 - [Components]
 - [Routers]
 - [Add_reducers_and_actions]
-- [Use_Redux_in_React_components]
-- [Connect_to_API]
-- [Styling]
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> In the future I will
-
-
-- [Everything_is_implemented]
-
-
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> In the future I will
-
-
-- Connect to API.
-- Styling.
-
-
-
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting Started `<a name="getting-started"></a>`
 
 To get a local copy up and running, follow these steps.
 
@@ -115,8 +87,11 @@ In order to run this project you need:
 - HTML and CSS knowledge
 - VS code or any other equivalent tool.
 
- <!-- LIVE DEMO -->
+<!-- LIVE DEMO -->
 
+### LIVE DEMO
+
+- See it live by clicking [Live Demo Link]()
 
 ### Setup
 
@@ -124,7 +99,6 @@ Clone this repository to your desired folder:
 
 <!--
 Example commands:
-
 ```sh
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
@@ -164,7 +138,7 @@ And For tracking linter errors in REACT files run:
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="author"></a>
+## 👥 Author `<a name="author"></a>`
 
 > This is a solo project.
 
@@ -176,7 +150,7 @@ And For tracking linter errors in REACT files run:
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing `<a name="contributing"></a>`
 
 Contributions, issues, and feature requests are welcome!
 
@@ -184,21 +158,29 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
+## ⭐️ Show your support `<a name="support"></a>`
 
 Give a ⭐️ if you like this project!
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments `<a name="acknowledgements"></a>`
 
 - I would like to thank Microverse for granting me the knowledge to do this.
 - Thanks to My coding Partner.
 - Thanks to My Morning-session-group and Standup-team Partners.
 - Thanks to Code Reviewers
 
+<!-- FUTURE FEATURES -->
 
+## 🔭 Future Features `<a name="future-features"></a>`
 
-## 📝 License <a name="license"></a>
+> In the future I will
+
+- Use Redux in React components.
+- Connect to API.
+- Styling.
+
+## 📝 License `<a name="license"></a>`
 
 This project is [MIT](./LICENSE) licensed.
