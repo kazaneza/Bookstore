@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
+// import { useSelector } from "react-redux";
 import Book from '../components/Book';
 import Form from '../components/Form';
 import { getBooks } from '../redux/books/booksSlice';
@@ -33,7 +34,7 @@ function BooksPage() {
   return (
     <div>
       <div className="books-list-container row">
-        <ul className="books-list">{output}</ul>
+        <div className="books-list">{output}</div>
       </div>
       <Form />
     </div>
