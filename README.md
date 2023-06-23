@@ -49,7 +49,6 @@
 
 > In the future I will
 
-- Connect to API.
 - Styling.
 
  In order to run this project you need:
