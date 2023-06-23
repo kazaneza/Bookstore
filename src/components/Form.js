@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import { v4 as uuidv4 } from 'uuid';
-import { booksActions, postBook } from '../redux/books/booksSlice';
+import { booksActions } from '../redux/books/booksSlice';
 
 function Form() {
   const [title, setTitle] = useState('');
@@ -26,12 +26,10 @@ function Form() {
       item_id: uuidv4(),
       title,
       author,
-      category: 'Fiction',
     };
 
     // Adding book to state
     dispatch(booksActions.addBook(bookData));
-    dispatch(postBook(bookData));
 
     // Empty form inputs
     setTitle('');
@@ -39,14 +37,13 @@ function Form() {
   };
   return (
     <div className="form-wrapper row">
-      <form onSubmit={submitHandler} className="form">
+      <form onSubmit={submitHandler}>
         <input
           type="text"
           name="title"
           value={title}
           aria-label="Book title input"
           placeholder="Book Title"
-          className="title-input"
           onChange={titleChangeHandler}
         />
         <input
@@ -55,12 +52,9 @@ function Form() {
           value={author}
           aria-label="Book author input"
           placeholder="Author"
-          className="author-input"
           onChange={authorChangeHandler}
         />
-        <button type="submit" className="submit-button">
-          Submit
-        </button>
+        <button type="submit">Submit</button>
       </form>
     </div>
   );
