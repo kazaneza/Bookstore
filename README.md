@@ -52,12 +52,14 @@
 - Connect to API.
 - Styling.
 
-@@ -93,9 +105,6 @@ In order to run this project you need:
+ In order to run this project you need:
+
+<!-- LIVE DEMO --
 
 
 ### Setup
 
-@@ -176,16 +185,6 @@ Give a ⭐️ if you like this project!
+ Give a ⭐️ if you like this project!
 
 - Thanks to My Morning-session-group and Standup-team Partners.
 - Thanks to Code Reviewers
