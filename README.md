@@ -1,32 +1,3 @@
-# Bookstore
-
-`<a name="readme-top"></a>`
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-Modify this file to match your project and remove sections that don't apply.
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-OPTIONAL SECTIONS:
-- FAQ
-After you're finished please remove all the comments and instructions!
--->
-
-<h3><b>README </b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -70,106 +41,7 @@ After you're finished please remove all the comments and instructions!
 - [Components]
 - [Routers]
 - [Add_reducers_and_actions]
-
-## 💻 Getting Started `<a name="getting-started"></a>`
-
-To get a local copy up and running, follow these steps.
-
-1. Clone the Repo or Download the Zip file or `https://github.com/kazaneza/Bookstore.git`
-2. cd /calculator
-3. Open it with the live server
-
-### Prerequisites
-
-In order to run this project you need:
-
-- Git/Github
-- HTML and CSS knowledge
-- VS code or any other equivalent tool.
-
-<!-- LIVE DEMO -->
-
-### LIVE DEMO
-
-- See it live by clicking [Live Demo Link]()
-
-### Setup
-
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
-
-Install this project with:
-
-- to install locally run git clone `https://github.com/kazaneza/Bookstore.git`
-- open the cloned directory with VSCode
-- Install live server extension for VSCode
-- Right click on the index.html and select open with live servers
-
-### Run tests
-
-To run tests, run the following command:
-
-For tracking linter errors locally you need to follow these steps:
-
-After cloning the project you need to run these commands
-
-`npm install` `This command will download all the dependancies of the project`
-
-For tracking linter errors in CSS or SASS files run:
-
-`npx stylelint "**/*.{css,scss}`
-
-And For tracking linter errors in REACT files run:
-
-`npx eslint "**/*.{js,jsx}"`
-
-### Usage
-
-- Feel free to use this project
-
-<!-- AUTHORS -->
-
-## 👥 Author `<a name="author"></a>`
-
-> This is a solo project.
-
-👤 **Gentil Kazaneza**
-
-- GitHub: [@kazaneza](https://github.com/kazaneza)
-- Twitter: [@kazaneza](https://twitter.com/kazaneza)
-- LinkedIn: [@kazaneza](https://www.linkedin.com/in/gentil-kazaneza-a51742188/)
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing `<a name="contributing"></a>`
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support `<a name="support"></a>`
-
-Give a ⭐️ if you like this project!
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments `<a name="acknowledgements"></a>`
-
-- I would like to thank Microverse for granting me the knowledge to do this.
-- Thanks to My coding Partner.
-- Thanks to My Morning-session-group and Standup-team Partners.
-- Thanks to Code Reviewers
+- [Use_Redux_in_React_components]
 
 <!-- FUTURE FEATURES -->
 
@@ -177,9 +49,21 @@ Give a ⭐️ if you like this project!
 
 > In the future I will
 
-- Use Redux in React components.
 - Connect to API.
 - Styling.
+
+@@ -93,9 +105,6 @@ In order to run this project you need:
+
+
+### Setup
+
+@@ -176,16 +185,6 @@ Give a ⭐️ if you like this project!
+
+- Thanks to My Morning-session-group and Standup-team Partners.
+- Thanks to Code Reviewers
+
+<!-- FUTURE FEATURES -->
+
 
 ## 📝 License `<a name="license"></a>`
 
