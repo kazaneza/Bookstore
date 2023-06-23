@@ -1,4 +1,3 @@
-/* eslint-disable no-param-reassign */
 import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 import axios from 'axios';
 import API_URL from '../../globals';
@@ -63,7 +62,6 @@ const booksSlice = createSlice({
 
     removeBook: (state, actions) => {
       const idOfBookToRemove = actions.payload;
-      // eslint-disable-next-line no-param-reassign
       state.books = state.books.filter(
         (book) => book.item_id !== idOfBookToRemove,
       );
@@ -92,12 +90,11 @@ const booksSlice = createSlice({
         const resObject = action.payload;
 
         const newBooksArr = [];
-        // eslint-disable-next-line no-restricted-syntax, guard-for-in
-        for (const id in resObject) {
+        Object.keys(resObject).forEach((id) => {
           const bookObj = resObject[id][0];
           bookObj.item_id = id;
           newBooksArr.push(bookObj);
-        }
+        });
 
         state.books = newBooksArr;
       })
